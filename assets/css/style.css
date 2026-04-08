@@ -289,6 +289,14 @@ img {
   margin-top: 24px;
   font-size: 1rem;
 }
+.home-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.home-links li {
+  padding: 0.15rem 0;
+}
 
 .home-links a {
   color: #fff;
